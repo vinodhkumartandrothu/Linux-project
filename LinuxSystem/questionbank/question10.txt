@@ -1,0 +1,5 @@
+Which batsmen has the highest average in Cricket?
+a)Sachin Tendulkar
+b)VV Ricahrdson
+c)Don Bradman
+d)MS Dhoni
